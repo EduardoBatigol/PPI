@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%27%29%3B');
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    background:( rgb(212, 212, 212));
+}
+.table{
+    position: relative;
+    justify-content: center;
+    left: 20%;
+    top: 15%;
+}
